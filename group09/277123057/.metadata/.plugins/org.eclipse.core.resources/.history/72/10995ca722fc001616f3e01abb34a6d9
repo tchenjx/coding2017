@@ -1,7 +1,7 @@
 package Week01;
 //
 /*
- *还没有完
+ *还没有完成 
  * */
 public class BinaryTreeNode {
 	private Object data;

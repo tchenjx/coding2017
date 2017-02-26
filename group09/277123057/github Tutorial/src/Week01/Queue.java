@@ -6,6 +6,7 @@ package Week01;
 public class Queue {
 	private LinkedList elementData = new LinkedList();
 	//╫Ь╤сап
+	
 	public void enQueue(Object o){
 		elementData.add(o);
 	}
